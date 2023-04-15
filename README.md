@@ -25,7 +25,8 @@ Question 4 - Extracting GameStop Revenue Data Using Webscraping
 
 Question 5 - Tesla Stock and Revenue Dashboard
 
-![image](https://user-images.githubusercontent.com/128512405/232255854-92317541-ec08-4db2-99ea-aff1dcbe5f59.png)
+![image](https://user-images.githubusercontent.com/128512405/232256188-993fc2f7-d171-4ad0-b109-65936d7c9b5c.png)
+
 
 Question 6 - GameStop Stock and Revenue Dashboard
 
